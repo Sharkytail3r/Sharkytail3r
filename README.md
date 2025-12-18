@@ -16,33 +16,19 @@ Currently diving deeper into **C, HTML, and CSS**, while always experimenting wi
 
 ## 🛠 Tech Stack
 
-### 💡 Languages
-- C  
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- React  
+💡 **Languages:** C, HTML, CSS, JavaScript, Typescript, React  
+🛠 **Tools:** VS Code, Zed, Sublime Text, Cursor  
+🌐 **Other:** Git, GitHub, Chrome DevTools,
 
-### 🔧 Tools
-- VS Code  
-- Zed  
-- Sublime Text  
-- Cursor  
+- 🛒 I'm currently working on a shopping list app
+- 🌱 I'm currently learning Typescript
+- 🤝 I'm looking to collaborate on app development
+- 🧠 I'm looking for help with ...
+- 💬 Ask me about inquiries, questions, or anything on your mind
+- 📫 How to reach me: **Sharkytailer@gmail.com**
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: I play the saxophone
 
-### 🌐 Other
-- Git  
-- GitHub  
-- Chrome DevTools  
-
----
-
-## 🌱 Currently
-
-- 🧾 Working on a **shopping list app**
-- 📘 Learning **TypeScript**
-- 🤝 Looking to collaborate on **app development**
-- 🧠 Open to helping with questions or ideas
 
 ---
 
