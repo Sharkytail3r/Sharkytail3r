@@ -31,11 +31,11 @@ Currently diving deeper into **C, HTML, and CSS**, while always experimenting wi
 
 ---
 
-## 📬 How to Reach Me
+### 📬 How to Reach Me
 - 📧 **Email:** Sharkytailer@gmail.com
 
 ---
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 - 😄 **Pronouns:** Him/His  
 - 🎷 **Fun fact:** I play the saxophone
