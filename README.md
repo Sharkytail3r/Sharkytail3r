@@ -15,7 +15,6 @@ Currently diving deeper into **C, HTML, and CSS**, while always experimenting wi
 ---
 
 ## 🛠 Tech Stack
-
 💡 **Languages:** C, HTML, CSS, JavaScript, Typescript, React  
 🛠 **Tools:** VS Code, Zed, Sublime Text, Cursor  
 🌐 **Other:** Git, GitHub, Chrome DevTools,
