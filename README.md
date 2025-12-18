@@ -7,8 +7,7 @@ Currently diving deeper into **C, HTML, and CSS**, while always experimenting wi
 
 ---
 
-## 🚀 What I Do
-
+### 🚀 What I Do
 - 🧠 Build and design websites that actually *look good*
 - 🎮 Develop and test simple games (and sometimes play them too 😅)
 - 🎥 Run a YouTube channel where I share tech stuff and coding projects
