@@ -3,7 +3,7 @@
 💻 **Software Engineer | Gamer | Creator**
 
 I’m super passionate about building cool stuff — from clean, responsive websites to fun little games.  
-Currently diving deeper into **C, HTML, and CSS**, while always experimenting with new tools and tech.
+Currently diving deeper into **C, HTML, Python and CSS**, while always experimenting with new tools and tech.
 
 ---
 
